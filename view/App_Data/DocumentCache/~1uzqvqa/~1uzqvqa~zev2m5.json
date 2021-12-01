@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "1uzqvqa",
+  "CachePdfKey": "1uzqvqa/1uzqvqa-md9rl0.pdf",
+  "CacheXpzKey": "1uzqvqa/1uzqvqa-zev2m5.xpz",
+  "CacheInfoKey": "1uzqvqa/1uzqvqa-zev2m5.json",
+  "CacheCopyKey": null,
+  "Document": "file.jpeg",
+  "DocumentHandlerType": null,
+  "DocumentHandlerParameters": null,
+  "DocumentLocation": "C:\\Users\\Namanda\\Desktop\\p\\view\\view\\Documents",
+  "DocumentFileName": "file.jpeg",
+  "InputOptions": {
+    "Format": "Jpg",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "1uzqvqa",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}

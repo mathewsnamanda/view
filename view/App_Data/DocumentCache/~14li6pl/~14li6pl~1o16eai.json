@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "14li6pl",
+  "CachePdfKey": "14li6pl/14li6pl-1k3kk2s.pdf",
+  "CacheXpzKey": "14li6pl/14li6pl-1o16eai.xpz",
+  "CacheInfoKey": "14li6pl/14li6pl-1o16eai.json",
+  "CacheCopyKey": null,
+  "Document": "file.pdf",
+  "DocumentHandlerType": null,
+  "DocumentHandlerParameters": null,
+  "DocumentLocation": "~\\Documents",
+  "DocumentFileName": "file.pdf",
+  "InputOptions": {
+    "Format": "Pdf",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "14li6pl",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}

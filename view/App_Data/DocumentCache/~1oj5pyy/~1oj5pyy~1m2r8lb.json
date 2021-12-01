@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "1oj5pyy",
+  "CachePdfKey": "1oj5pyy/1oj5pyy-1k3kk2s.pdf",
+  "CacheXpzKey": "1oj5pyy/1oj5pyy-1m2r8lb.xpz",
+  "CacheInfoKey": "1oj5pyy/1oj5pyy-1m2r8lb.json",
+  "CacheCopyKey": null,
+  "Document": "error.pdf",
+  "DocumentHandlerType": null,
+  "DocumentHandlerParameters": null,
+  "DocumentLocation": "C:\\Users\\Namanda-PC\\Desktop\\view\\view\\Documents",
+  "DocumentFileName": "error.pdf",
+  "InputOptions": {
+    "Format": "Pdf",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "1oj5pyy",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}

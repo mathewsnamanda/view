@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "ri97j6",
+  "CachePdfKey": "ri97j6/ri97j6-1k3kk2s.pdf",
+  "CacheXpzKey": "ri97j6/ri97j6-zst69h.xpz",
+  "CacheInfoKey": "ri97j6/ri97j6-zst69h.json",
+  "CacheCopyKey": null,
+  "Document": "file.pdf",
+  "DocumentHandlerType": null,
+  "DocumentHandlerParameters": null,
+  "DocumentLocation": "C:\\Users\\Namanda\\Desktop\\view\\view\\Documents",
+  "DocumentFileName": "file.pdf",
+  "InputOptions": {
+    "Format": "Pdf",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "ri97j6",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}

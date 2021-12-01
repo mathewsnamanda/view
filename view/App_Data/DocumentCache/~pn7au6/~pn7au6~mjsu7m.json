@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "pn7au6",
+  "CachePdfKey": "pn7au6/pn7au6-1k3kk2s.pdf",
+  "CacheXpzKey": "pn7au6/pn7au6-mjsu7m.xpz",
+  "CacheInfoKey": "pn7au6/pn7au6-mjsu7m.json",
+  "CacheCopyKey": null,
+  "Document": "error1.pdf",
+  "DocumentHandlerType": null,
+  "DocumentHandlerParameters": null,
+  "DocumentLocation": "C:\\Users\\Namanda\\Desktop\\view\\view\\Documents",
+  "DocumentFileName": "error1.pdf",
+  "InputOptions": {
+    "Format": "Pdf",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "pn7au6",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "baqjck",
+  "CachePdfKey": "baqjck/baqjck-1k3kk2s.pdf",
+  "CacheXpzKey": "baqjck/baqjck-12b05gs.xpz",
+  "CacheInfoKey": "baqjck/baqjck-12b05gs.json",
+  "CacheCopyKey": null,
+  "Document": "file.pdf",
+  "DocumentHandlerType": null,
+  "DocumentHandlerParameters": null,
+  "DocumentLocation": "C:\\Users\\Namanda\\Desktop\\view\\view\\Documents",
+  "DocumentFileName": "file.pdf",
+  "InputOptions": {
+    "Format": "Pdf",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "baqjck",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}

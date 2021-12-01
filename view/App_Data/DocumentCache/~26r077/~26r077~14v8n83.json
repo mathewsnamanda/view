@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "26r077",
+  "CachePdfKey": "26r077/26r077-1k3kk2s.pdf",
+  "CacheXpzKey": "26r077/26r077-14v8n83.xpz",
+  "CacheInfoKey": "26r077/26r077-14v8n83.json",
+  "CacheCopyKey": null,
+  "Document": "file.pdf",
+  "DocumentHandlerType": null,
+  "DocumentHandlerParameters": null,
+  "DocumentLocation": "C:\\Users\\Namanda\\Desktop\\view\\view\\Documents",
+  "DocumentFileName": "file.pdf",
+  "InputOptions": {
+    "Format": "Pdf",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "26r077",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}

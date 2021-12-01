@@ -1,0 +1,31 @@
+{
+  "CacheSourceKey": "12s0fyd",
+  "CachePdfKey": "12s0fyd/12s0fyd-10z0xqk.pdf",
+  "CacheXpzKey": "12s0fyd/12s0fyd-1nqyxuf.xpz",
+  "CacheInfoKey": "12s0fyd/12s0fyd-1nqyxuf.json",
+  "CacheCopyKey": null,
+  "Document": "file.docx",
+  "DocumentHandlerType": null,
+  "DocumentHandlerParameters": null,
+  "DocumentLocation": "C:\\Users\\Namanda\\Desktop\\p\\view\\view\\Documents",
+  "DocumentFileName": "file.docx",
+  "InputOptions": {
+    "$type": "GleamTech.DocumentUltimate.WordProcessingInputOptions, GleamTech.DocumentUltimate",
+    "FieldFileName": null,
+    "UpdateFields": true,
+    "Encoding": null,
+    "Format": "Docx",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "12s0fyd",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "kyvap",
+  "CachePdfKey": "kyvap/kyvap-1k3kk2s.pdf",
+  "CacheXpzKey": "kyvap/kyvap-fcn5yf.xpz",
+  "CacheInfoKey": "kyvap/kyvap-fcn5yf.json",
+  "CacheCopyKey": null,
+  "Document": "file.pdf",
+  "DocumentHandlerType": null,
+  "DocumentHandlerParameters": null,
+  "DocumentLocation": "C:\\Users\\Namanda\\Desktop\\view\\view\\Documents",
+  "DocumentFileName": "file.pdf",
+  "InputOptions": {
+    "Format": "Pdf",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "kyvap",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}

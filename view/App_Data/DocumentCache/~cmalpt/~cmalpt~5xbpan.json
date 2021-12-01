@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "cmalpt",
+  "CachePdfKey": "cmalpt/cmalpt-1k3kk2s.pdf",
+  "CacheXpzKey": "cmalpt/cmalpt-5xbpan.xpz",
+  "CacheInfoKey": "cmalpt/cmalpt-5xbpan.json",
+  "CacheCopyKey": null,
+  "Document": "file.pdf",
+  "DocumentHandlerType": null,
+  "DocumentHandlerParameters": null,
+  "DocumentLocation": "C:\\Users\\Namanda\\Desktop\\view\\view\\Documents",
+  "DocumentFileName": "file.pdf",
+  "InputOptions": {
+    "Format": "Pdf",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "cmalpt",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "iu9w55",
+  "CachePdfKey": "iu9w55/iu9w55-1k3kk2s.pdf",
+  "CacheXpzKey": "iu9w55/iu9w55-1szbwl2.xpz",
+  "CacheInfoKey": "iu9w55/iu9w55-1szbwl2.json",
+  "CacheCopyKey": null,
+  "Document": "file.pdf",
+  "DocumentHandlerType": null,
+  "DocumentHandlerParameters": null,
+  "DocumentLocation": "C:\\Users\\Namanda\\Desktop\\view\\view\\Documents",
+  "DocumentFileName": "file.pdf",
+  "InputOptions": {
+    "Format": "Pdf",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "iu9w55",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  }
+}
